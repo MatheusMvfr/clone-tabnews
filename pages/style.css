@@ -1,0 +1,7 @@
+.image {
+  width: 100%;
+  height: auto; /* Isso garante que a altura seja ajustada automaticamente para manter a proporção da imagem */
+  max-width: 100%; /* A imagem nunca será maior que a largura da janela de visualização */
+  display: block; /* Isso garante que a imagem se comporte como um bloco e respeite as dimensões definidas */
+  margin: 0 auto; /* Centraliza a imagem horizontalmente na tela */
+}
