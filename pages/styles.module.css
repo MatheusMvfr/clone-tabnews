@@ -1,0 +1,23 @@
+.image {
+  width: 90%;
+  height: 80vh;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.title {
+  margin: auto;
+}
+
+.subtitle {
+  margin: auto;
+}
